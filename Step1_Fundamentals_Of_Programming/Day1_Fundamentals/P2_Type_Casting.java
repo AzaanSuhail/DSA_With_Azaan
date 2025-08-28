@@ -1,4 +1,4 @@
-package Day1_Fundamentals;
+package Step1_Fundamentals_Of_Programming.Day1_Fundamentals;
 import java.util.*;
 
 public class P2_Type_Casting {

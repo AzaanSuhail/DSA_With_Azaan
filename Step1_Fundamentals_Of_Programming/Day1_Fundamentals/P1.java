@@ -1,4 +1,4 @@
-package Day1_Fundamentals;
+package Step1_Fundamentals_Of_Programming.Day1_Fundamentals;
 
 import java.util.*;
 public class P1 {
@@ -7,5 +7,6 @@ public class P1 {
 
      // ~ expression = ex1 +ex2+ex3
        //! promotion= smaller datatype converted to higher datatype (automatically)
+       //*  : Datatype name_variabe=variable_value
     }
 }  

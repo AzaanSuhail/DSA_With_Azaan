@@ -10,21 +10,6 @@ public class P8_{
             //In continue all the things in the scope will b
             System.out.print(i+" ");
             
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            
         }
 
 
