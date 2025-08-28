@@ -159,7 +159,7 @@ public class P1 {
     }
 
     //Ques9: Insertion & Deletion in an array => Why linked list
-    
+
 
     public static void main(String[] args) {
         // Declare array
@@ -168,5 +168,6 @@ public class P1 {
         // int[] arr = { 145, 2, 3, 4, 5, 6, 7867, 8, 9, 10 }; // Java styled defined
         // method
         Check_forward_Backward_None_Sorted(arr); // main
+        //addition
     }
 }
