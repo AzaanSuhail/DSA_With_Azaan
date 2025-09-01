@@ -7,6 +7,6 @@ public class P1 {
 
      // ~ expression = ex1 +ex2+ex3
        //! promotion= smaller datatype converted to higher datatype (automatically)
-       //*  : Datatype name_variabe=variable_value
+       //*  : Datatype name_variable=variable_value
     }
 }  

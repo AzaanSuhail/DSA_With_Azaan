@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class P2_Arraylist_Operations {
     public static void main(String[] args) {
         ArrayList<Integer>list=new ArrayList<>();

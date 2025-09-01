@@ -2,12 +2,15 @@ import java.util.*;
 public class P8_Container_With_Most_Water_Approach1 {
     public static int most_water(ArrayList<Integer>height){
         //brute force approach
-        int max_water=0;
+        int max_water=Integer.MIN_VALUE;
+        
         for(int i=0;i<height.size();i++){
             for(int j=i+1;j<height.size();j++){
                 int ht=Math.min(height.get(i),height.get(j));
+
                 int width=j-i;
                 int curr_Water=ht*width;
+                
                 max_water=Math.max(curr_Water,max_water);
             }
         }

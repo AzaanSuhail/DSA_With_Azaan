@@ -10,7 +10,7 @@ public class P3_Size_Of_Arraylist {
         list.add(4);
         list.add(5);
 
-        System.out.println(list.size());
+        System.out.println(list.size()); //5
 
         //print the arraylist
 
