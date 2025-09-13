@@ -5,7 +5,7 @@ public class P7_Reverse_Number {
         //reverse logic
         while(x!=0){
             int last_digit=x%10; //4 --> 3 --> 2 --> 1
-            System.out.print(last_digit);
+            System.out.print(last_digit);  
 
             x= x/10;
         }
